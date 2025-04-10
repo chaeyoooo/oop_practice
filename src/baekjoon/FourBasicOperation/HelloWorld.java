@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.FourBasicOperation;
 
 public class HelloWorld {
     public static void main(String[] args){
